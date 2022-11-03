@@ -1,0 +1,3 @@
+﻿  ce103-hw2-test-app.c
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\ce103-hw2\ce103-hw2-test-app.c(22,2): warning C4013: 'getch' tanımsız; int döndüren extern olduğu varsayılıyor
+  ce103-hw2.vcxproj -> C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\x64\Debug\ce103-hw2-test-app.exe
