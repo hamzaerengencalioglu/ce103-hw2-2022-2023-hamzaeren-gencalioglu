@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  ce103-hw2-lib-test.cpp
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\ce103-hw2-lib-test\ce103-hw2-lib-test.cpp(140,1): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\ce103-hw2-lib-test\ce103-hw2-lib-test.cpp(153,1): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+     C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\x64\Debug\ce103-hw2-lib-test.lib kitaplığı ve C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\x64\Debug\ce103-hw2-lib-test.exp nesnesi oluşturuluyor
+  ce103-hw2-lib-test.vcxproj -> C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\x64\Debug\ce103-hw2-lib-test.dll
