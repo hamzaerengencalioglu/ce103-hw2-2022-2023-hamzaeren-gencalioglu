@@ -1,0 +1,5 @@
+﻿  ce103-hw2-lib.c
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\ce103-hw2-lib\ce103-hw2-lib.c(375,20): warning C4133: '<': uyumsuz türler - 'int *' türünden 'unsigned char *' türüne
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\ce103-hw2-lib\ce103-hw2-lib.c(383,14): warning C4098: 'ce103_bin2hex': 'void' işlev değer döndürüyor
+C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\ce103-hw2-lib\ce103-hw2-lib.c(374,1): warning C4133: 'başlatılıyor': uyumsuz türler - 'unsigned char *' türünden 'int *' türüne
+  ce103-hw2-lib.vcxproj -> C:\Users\genca\OneDrive\Masaüstü\ce103-hw2-template-main\x64\Debug\ce103-hw2-lib.lib
